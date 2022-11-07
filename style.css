@@ -1,1 +1,13 @@
-
+.jumbotron {
+    background-image: url("Bootstrap-Portfolio./pictures/1.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10rem;
+  }
+.nav-link:hover {
+    color: blueviolet;
+}
